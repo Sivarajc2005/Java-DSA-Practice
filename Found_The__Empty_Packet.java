@@ -2,6 +2,9 @@
  * A chocolate factory pack the chocolates into the package
  * .the chocolate packet have the array of N number of integers value.
  * the task is to find the empty packets of chocolate and push it to the end of the conveyor belt
+ * 
+ * 
+ * LOGIC VIDEO :https://youtu.be/rz_IWtAXzwE?si=Qp20Wg5p7Bvi3CW9
  */
 
 import java.util.Scanner;

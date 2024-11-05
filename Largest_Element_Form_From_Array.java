@@ -1,8 +1,11 @@
 /*
  * Ria like to play a number of games always , 
  * today she dicided to find the largest number that can be made using all of the digits of the given input .
+ * 
+ * 
+ * LOGIC VIDEO : https://youtu.be/qEIGhVtZ-sg?si=uT-LW8JSHA6Q_WVp
  */
-public class Max_Number {
+public class Largest_Element_Form_From_Array {
     public static void main(String[] args){
         
        String[] arr = {"3","6","7","5","0","9","2"};
